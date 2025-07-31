@@ -1,2 +1,2 @@
 # Budget_Tracker
-This is an Lpu Project (Python)
+This is a Lpu Project (Python)
